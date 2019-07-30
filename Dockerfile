@@ -1,4 +1,4 @@
-FROM nginx:nginx-laravel
+FROM nginx:latest
 
 MAINTAINER Chu Minh Khai <minhkhai97dbp.com>
 
